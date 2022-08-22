@@ -21,6 +21,7 @@ RelWithDebInfo
 # binaries
 bin/
 bin-int/
+bin-obj/
 
 # Xcode clutter
 GLFW.build
